@@ -1,4 +1,0 @@
-- Student information management
-- Student Search
-- Notify System
-- Test System
