@@ -1,2 +1,0 @@
-SRS v1
-Feature 1
